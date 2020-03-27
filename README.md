@@ -9,7 +9,7 @@ In arithmetic and number theory, the least common multiple, lowest common multip
 ## Usage
 
 ```
-$ git clone https://github.com/naijopkr/lowest-common-multiple
+$ git clone https://github.com/naijopkr/lowest-common-multiple.git
 
 $ cd lowest-common-multiple
 
